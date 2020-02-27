@@ -1,0 +1,1 @@
+SELECT AVG(idade) FROM funcionario
